@@ -1,0 +1,1 @@
+import{d as c,o as a,e as r,j as o,f as t,t as l,h as u}from"./index-85da6439.js";const i=t("hr",null,null,-1),_=t("hr",null,null,-1),h={__name:"About",setup(d){const n=c();let e=3;function s(){e++,n.commit("increase",e)}return(m,p)=>(a(),r("div",null,[o(" 这里是About页面 "),i,t("button",{onClick:s},"增加"),_,o(" count: "+l(u(e)),1)]))}};export{h as default};
